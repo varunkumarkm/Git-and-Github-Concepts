@@ -1,0 +1,5 @@
+*.log
+# error.log
+# request.log
+/text.txt
+/abc
