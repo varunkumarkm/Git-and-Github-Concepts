@@ -1,0 +1,28 @@
+Git and Github 
+--------------
+
+What is Git? and why we use git
+-> * Git is a popular source controller
+   * Distributed system
+   * Free and open-source
+* Git is a repository, where we commit our objects
+* This is for control to track and maintain the developer changes
+* So, Git is version control system
+* Meaning of version control is managing of our source codes
+* It can help us for mulitple users can work together and we can handle the larger projects efficienty using git and github
+
+Differance of git and github
+Git    -> Git is for managing our repository in locally
+Github -> We using Github create a centralized repository or remote repository 
+
+some linux commands are
+* check the present working directory pwd 
+use (pwd) command ex: it shows /c/Users/varunkm
+
+* us (ls) command list all our data
+
+* (git --version) it will display git version
+
+
+
+
